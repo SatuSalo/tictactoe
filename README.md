@@ -1,5 +1,7 @@
 # Tictactoe play @ https://salosatu.github.io/tictactoe/
 
+If you use the source code, follow the steps below to run this Angular app. 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.3.
 
 ## Development server
